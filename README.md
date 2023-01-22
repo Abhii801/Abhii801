@@ -29,7 +29,7 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 
 ### Technical Skills & Software Tools
 
-* **Programming Languages:** -C, Python, Embedded C, Verilog, C++, bash, Java, SQL
+* **Programming Languages:** C, Python, Embedded C, Verilog, C++, bash, Java, SQL
 * **Software Tools:** Firebase, Cisco Packet tracer, Proteus, Matlab, Xilinx vivado, VsCode, Arduino, Fritzing, Autodesk EAGLE, Keil v5
 * **Packages:** Pytest, REST API, Numpy, Scikit learn, Pandas, Matplotlib, Sqlite, Keras, Seaborn
 * **Languages:** English (Full Native Proficiency), Hindi (Full Native Proficiency), German (A1 level)
@@ -47,10 +47,10 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 ### Volunteer Work
 * **Academic Support Volunteer (ASV) at Make a Difference**
       - Teaching 8th and 9th Std students about the wonders of Science and English.
-      - Contributing towards the objective of MAD and helping children in need of care and             protection
+      - Contributing towards the objective of MAD and helping children in need of care and protection
 
 ### Hobbies
-* Athletics, Reading, Music
+* [Athletics], Reading, Music
 
 ### Contacts Information
 - **Email:** Kumarat@rknec.edu 
