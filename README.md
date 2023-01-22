@@ -7,7 +7,6 @@
 - [Technical Skills & Software Tools](#Technical-Skills-&-Software-Tools)
 - [Relevant Coursework](#Relevant-Coursework)
 - [Technical Projects & Research](#Technical-Projects-&-Research)
-- [Positions of Responsibility](#Positions-of-Responsibility)
 - [Volunteer Work](#Volunteer-Work)
 - [Hobbies](#Hobbies)
 - [Contacts Information](#Contacts-Information)
@@ -36,5 +35,24 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 * **Languages:** English (Full Native Proficiency), Hindi (Full Native Proficiency), German (A1 level)
 
 ### Relevant Coursework
-* **University:** *Electronic devices and Circuits, Network Theory, Digital System Design, Microprocessors and Microcontrollers, Analog and Digital communication, Control Systems, Computer Architecture, Computer Networks, IoT, Embedded Systems, Machine learning
-* **MOOC:** *Python for everybody, Matlab programming for beginners, An Introduction to Programming the IoT, VLSI Design, Linux fundamentals, ASIC design flow
+* **University:** Electronic devices and Circuits, Network Theory, Digital System Design, Microprocessors and Microcontrollers, Analog and Digital communication, Control Systems, Computer Architecture, Computer Networks, IoT, Embedded Systems, Machine learning
+* **MOOC:** Python for everybody, Matlab programming for beginners, An Introduction to Programming the IoT, VLSI Design, Linux fundamentals, ASIC design flow
+
+### Technical Projects & Research
+* **Parts Counter and Classifier using Jetson Nano and FOMO Algorithm**
+* **8-bit ALU Design**
+* **Design of a Menu Driven Smart Home System**
+* **Design of Locust Swarm Detection and Repulsion System using IoT**
+
+### Volunteer Work
+* **Academic Support Volunteer (ASV) at Make a Difference**
+      - Teaching 8th and 9th Std students about the wonders of Science and English.
+      - Contributing towards the objective of MAD and helping children in need of care and             protection
+
+### Hobbies
+* Athletics, Reading, Music
+
+### Contacts Information
+- **Email:** Kumarat@rknec.edu 
+- **Contact number:** (+91) 7666465449 
+- **Linkedin:** linkedin.com/in/abhii801
