@@ -56,3 +56,4 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 - **Email:** Kumarat@rknec.edu 
 - **Contact number:** (+91) 7666465449
 - **Linkedin:** [linkedin.com/in/abhii801](https://www.linkedin.com/in/abhii801/)
+- **Twitter:** [Profile](https://twitter.com/Abhii_801)
