@@ -1,28 +1,30 @@
-# Project Title
+# Hello! :wave:
 
-[![Build Status](https://img.shields.io/travis/USER/REPO/master.svg?style=flat-square)](https://travis-ci.org/USER/REPO) [![Coverage Status](https://img.shields.io/coveralls/USER/REPO/master.svg?style=flat-square)](https://coveralls.io/github/USER/REPO) [![Code Climate](https://img.shields.io/codeclimate/github/USER/REPO.svg?style=flat-square)](https://codeclimate.com/github/USER/REPO)
-
-A brief description of the project and its features.
 
 ## Table of contents
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installing](#installing)
-- [Usage](#usage)
-- [Running the tests](#running-the-tests)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [About Me](#About Me)
+- [Education](#Education)
+- [Technical Skills & Software Tools](#Technical Skills & Software Tools)
+- [Relevant Coursework](#Relevant Coursework)
+- [Technical Projects & Research](#Technical Projects & Research)
+- [Positions of Responsibility](#Positions of Responsibility)
+- [Volunteer Work](#Volunteer Work)
+- [Hobbies](#Hobbies)
+- [Contacts Information](#Contacts Information)
 
-## Getting Started
+## About Me
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+My name is Abhinav Kumar, and I am an engineer with a passion for the core electronics domain. I have a strong background in various electronic-related subjects, including electronic devices and circuits, microprocessors and microcontroller, analog and digital communication and embedded systems.
 
-### Prerequisites
+I am fluent in multiple programming languages, including C, C++, Python, and Java, and have experience in using various software tools such as Xilinx Vivado, Keil, and Proteus. Additionally, I have a solid understanding of circuit design, including schematic capture, PCB design, and circuit simulation.
 
-What things you need to install the software and how to install them
+I have a strong understanding of microcontroller programming, including working with various microcontroller families such as Broadcomm, AVR, PIC, and ARM Cortex. I have also worked on multiple projects related to embedded systems, including IoT projects, and have experience in using different communication protocols such as UART, I2C, and SPI.
+
+I am a dedicated, hardworking and fast learner engineer who is always seeking new challenges and opportunities to improve my skills. I am confident that my knowledge and experience would be an asset to any organization and I am excited to take on new challenges in the field of core electronics.
+
+### Education
+
+* **Bachelor of Engineering** in Electronics and Communication Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur. (July 2019 - Present)
+* **Higher Secondary** from St. Xavier's High School, Nagpur. (April 2017 - March 2019)
+* **Secondary** from St. Xavier's High School, Nagpur. (April 2007 - March 2017)
 
