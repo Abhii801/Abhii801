@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-- [About Me](#About Me)
+- [About Me](#AboutMe)
 - [Education](#Education)
 - [Technical Skills & Software Tools](#Technical Skills & Software Tools)
 - [Relevant Coursework](#Relevant Coursework)
