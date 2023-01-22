@@ -34,3 +34,7 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 * **Software Tools:** Firebase, Cisco Packet tracer, Proteus, Matlab, Xilinx vivado, VsCode, Arduino, Fritzing, Autodesk EAGLE, Keil v5
 * **Packages:** Pytest, REST API, Numpy, Scikit learn, Pandas, Matplotlib, Sqlite, Keras, Seaborn
 * **Languages:** English (Full Native Proficiency), Hindi (Full Native Proficiency), German (A1 level)
+
+### Relevant Coursework
+* **University:** *Electronic devices and Circuits, Network Theory, Digital System Design, Microprocessors and Microcontrollers, Analog and Digital communication, Control Systems, Computer Architecture, Computer Networks, IoT, Embedded Systems, Machine learning
+* **MOOC:** *Python for everybody, Matlab programming for beginners, An Introduction to Programming the IoT, VLSI Design, Linux fundamentals, ASIC design flow
