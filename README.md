@@ -2,15 +2,15 @@
 
 
 ## Table of contents
-- [About Me](#AboutMe)
+- [About Me](#About-Me)
 - [Education](#Education)
-- [Technical Skills & Software Tools](#Technical Skills & Software Tools)
-- [Relevant Coursework](#Relevant Coursework)
-- [Technical Projects & Research](#Technical Projects & Research)
-- [Positions of Responsibility](#Positions of Responsibility)
-- [Volunteer Work](#Volunteer Work)
+- [Technical Skills & Software Tools](#Technical-Skills-&-Software Tools)
+- [Relevant Coursework](#Relevant-Coursework)
+- [Technical Projects & Research](#Technical-Projects-&-Research)
+- [Positions of Responsibility](#Positions-of-Responsibility)
+- [Volunteer Work](#Volunteer-Work)
 - [Hobbies](#Hobbies)
-- [Contacts Information](#Contacts Information)
+- [Contacts Information](#Contacts-Information)
 
 ### About Me
 
