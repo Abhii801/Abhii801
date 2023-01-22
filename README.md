@@ -50,9 +50,9 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
       - Contributing towards the objective of MAD and helping children in need of care and protection
 
 ### Hobbies
-* [Athletics], Reading, Music
+* Athletics, Reading, Music
 
 ### Contacts Information
 - **Email:** Kumarat@rknec.edu 
 - **Contact number:** (+91) 7666465449 
-- **Linkedin:** linkedin.com/in/abhii801
+- **Linkedin:** [linkedin.com/in/abhii801](https://www.linkedin.com/in/abhii801/)
