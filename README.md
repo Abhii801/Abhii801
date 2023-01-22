@@ -12,7 +12,7 @@
 - [Hobbies](#Hobbies)
 - [Contacts Information](#Contacts Information)
 
-## About Me
+### About Me
 
 My name is Abhinav Kumar, and I am an engineer with a passion for the core electronics domain. I have a strong background in various electronic-related subjects, including electronic devices and circuits, microprocessors and microcontroller, analog and digital communication and embedded systems.
 
@@ -28,3 +28,9 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 * **Higher Secondary** from St. Xavier's High School, Nagpur. (April 2017 - March 2019)
 * **Secondary** from St. Xavier's High School, Nagpur. (April 2007 - March 2017)
 
+### Technical Skills & Software Tools
+
+* **Programming Languages:** -C, Python, Embedded C, Verilog, C++, bash, Java, SQL
+* **Software Tools:** Firebase, Cisco Packet tracer, Proteus, Matlab, Xilinx vivado, VsCode, Arduino, Fritzing, Autodesk EAGLE, Keil v5
+* **Packages:** Pytest, REST API, Numpy, Scikit learn, Pandas, Matplotlib, Sqlite, Keras, Seaborn
+* **Languages:** English (Full Native Proficiency), Hindi (Full Native Proficiency), German (A1 level)
