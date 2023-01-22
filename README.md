@@ -2,14 +2,14 @@
 
 
 ## Table of contents
-- [About Me](#About-Me)
-- [Education](#Education)
-- [Technical Skills & Software Tools](#Technical-Skills-&-Software-Tools)
-- [Relevant Coursework](#Relevant-Coursework)
-- [Technical Projects & Research](#Technical-Projects-&-Research)
-- [Volunteer Work](#Volunteer-Work)
-- [Hobbies](#Hobbies)
-- [Contacts Information](#Contacts-Information)
+- [About Me](#About-Me):man:
+- [Education](#Education):mortar_board:
+- [Technical Skills & Software Tools](#Technical-Skills-&-Software-Tools):computer:
+- [Relevant Coursework](#Relevant-Coursework):book:
+- [Technical Projects & Research](#Technical-Projects-&-Research):microscope:
+- [Volunteer Work](#Volunteer-Work):school:
+- [Hobbies](#Hobbies):bicyclist:
+- [Contacts Information](#Contacts-Information):iphone:
 
 ### About Me
 
@@ -54,5 +54,5 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 
 ### Contacts Information
 - **Email:** Kumarat@rknec.edu 
-- **Contact number:** [(+91) 7666465449](contact.py)
+- **Contact number:** (+91) 7666465449
 - **Linkedin:** [linkedin.com/in/abhii801](https://www.linkedin.com/in/abhii801/)
