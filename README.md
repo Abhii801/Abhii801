@@ -11,7 +11,7 @@
 - [Hobbies](#Hobbies):bicyclist:
 - [Contacts Information](#Contacts-Information):iphone:
 
-### About Me
+## About Me
 
 My name is Abhinav Kumar, and I am an engineer with a passion for the core electronics domain. I have a strong background in various electronic-related subjects, including electronic devices and circuits, microprocessors and microcontroller, analog and digital communication and embedded systems.
 
@@ -34,25 +34,25 @@ I am a dedicated, hardworking and fast learner engineer who is always seeking ne
 * **Packages:** Pytest, REST API, Numpy, Scikit learn, Pandas, Matplotlib, Sqlite, Keras, Seaborn
 * **Languages:** English (Full Native Proficiency), Hindi (Full Native Proficiency), German (A1 level)
 
-### Relevant Coursework
+## Relevant Coursework
 * **University:** Electronic devices and Circuits, Network Theory, Digital System Design, Microprocessors and Microcontrollers, Analog and Digital communication, Control Systems, Computer Architecture, Computer Networks, IoT, Embedded Systems, Machine learning
 * **MOOC:** Python for everybody, Matlab programming for beginners, An Introduction to Programming the IoT, VLSI Design, Linux fundamentals, ASIC design flow
 
-### Technical Projects & Research
+## Technical Projects & Research
 * **Parts Counter and Classifier using Jetson Nano and FOMO Algorithm**
 * **8-bit ALU Design**
 * **Design of a Menu Driven Smart Home System**
 * **Design of Locust Swarm Detection and Repulsion System using IoT**
 
-### Volunteer Work
+## Volunteer Work
 * **Academic Support Volunteer (ASV) at Make a Difference**
       - Teaching 8th and 9th Std students about the wonders of Science and English.
       - Contributing towards the objective of MAD and helping children in need of care and protection
 
-### Hobbies
+## Hobbies
 * Athletics, Reading, Music
 
-### Contacts Information
+## Contacts Information
 - **Email:** Kumarat@rknec.edu 
 - **Contact number:** (+91) 7666465449
 - **Linkedin:** [linkedin.com/in/abhii801](https://www.linkedin.com/in/abhii801/)
