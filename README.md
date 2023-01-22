@@ -21,13 +21,13 @@ I have a strong understanding of microcontroller programming, including working 
 
 I am a dedicated, hardworking and fast learner engineer who is always seeking new challenges and opportunities to improve my skills. I am confident that my knowledge and experience would be an asset to any organization and I am excited to take on new challenges in the field of core electronics.
 
-### Education
+## Education
 
 * **Bachelor of Engineering** in Electronics and Communication Engineering from Shri Ramdeobaba College of Engineering and Management, Nagpur. (July 2019 - Present)
 * **Higher Secondary** from St. Xavier's High School, Nagpur. (April 2017 - March 2019)
 * **Secondary** from St. Xavier's High School, Nagpur. (April 2007 - March 2017)
 
-### Technical Skills & Software Tools
+## Technical Skills & Software Tools
 
 * **Programming Languages:** C, Python, Embedded C, Verilog, C++, bash, Java, SQL
 * **Software Tools:** Firebase, Cisco Packet tracer, Proteus, Matlab, Xilinx vivado, VsCode, Arduino, Fritzing, Autodesk EAGLE, Keil v5
