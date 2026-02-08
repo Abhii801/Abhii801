@@ -51,7 +51,7 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
     * *Shri Ramdeobaba College of Engineering and Management (2019 - 2023)*
     * **Honors:** 🥈 **Silver Medalist** (CGPA: 9.55/10)
 * **Certifications:**
-    * Cadence Design Systems: *Allegro Design Entry HDL & PCB Editor Flow*
+    * Cadence Design Systems: *Allegro Design Entry HDL & PCB Editor Flow (Basic to intermediate)*
     * Coursera: * Power Electronics, Wireless Communication, IoT & Embedded Systems, Python 
       Programming*
 
@@ -64,5 +64,5 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhii801&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhii801&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats">
 </p>
