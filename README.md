@@ -62,7 +62,3 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 <a href="https://linkedin.com/in/abhii801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhii801" height="30" width="40" /></a>
 <a href="https://twitter.com/Abhii_801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhii_801" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhii801&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats">
-</p>
