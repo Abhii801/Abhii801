@@ -20,12 +20,12 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **EDA & PCB Design** | **Cadence Allegro**, Altium Designer, Zuken CR-8000/Cadstar, PADS Professional, Autodesk EAGLE |
-| **Simulation** | **LTSpice**, PSpice, TINA-TI, MATLAB/Simulink, CST Studio (RF) |
+| **EDA & PCB Design** | Cadence Allegro, Altium Designer, Zuken CR-8000/Cadstar, PADS Professional, Autodesk EAGLE |
+| **Simulation** | LTSpice, PSpice, TINA-TI, MATLAB/Simulink, CST Studio (RF) |
 | **Validation Automation** | Python, C/C++, VBA Macros, Power Automate |
-| **Lab Instrumentation** | **R&S CMW500** (Cellular Tester), VNA, Spectrum Analyzer, MSO, Logic Analyzer, Precision Metering Benches (**Zera**, MTE), EFT/ESD Simulators |
-| **Communication Protocols** | **DLMS/COSEM**, MQTT, LTE-Cat1/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
-| **Standards & Compliance** | **IS 16444**, **IEC 62052-11**, EMI/EMC (Radiated/Conducted Emissions), Electrical Safety |
+| **Lab Instrumentation** | **R&S CMW500** (Cellular Tester), VNA, Spectrum Analyzer, MSO, Logic Analyzer, Precision Metering Benches (Zera, MTE), EFT/ESD Simulators |
+| **Communication Protocols** | DLMS/COSEM, MQTT, LTE-Cat1/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
+| **Standards & Compliance** | IS 16444, IEC 62052-11, EMI/EMC (Radiated/Conducted Emissions), Electrical Safety |
 
 ---
 
@@ -33,7 +33,7 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 **Schneider Electric India Pvt. Ltd.** *(2023 - Present)*
 * **Power Electronics:** Designed **AC/DC Flyback SMPS** and DC/DC Buck/LDO stages for industrial smart meters.
 * **Analog Front-End:** Engineered precision signal conditioning circuits for 32-bit MCUs.
-* **RF & Wireless:** Integrated **Quectel Modules** for NICs (LTE-M/NB-IoT); implemented TCP listeners for protocol validation.
+* **RF & Wireless:** Integrated **Quectel Modules** for NICs (LTE-Cat1/NB-IoT); implemented TCP listeners for protocol validation.
 * **Compliance Engineering:** Mitigated **EMI/EMC failures** (RE/CE/RS) through custom magnetic design and layout optimization.
 * **Reliability:** Modeled Ultra-Low Power battery profiles (**LiMnO2/LiSOCL2**) for 10-year operation; executed DFMEA and Reliability Analysis (FIT).
 
