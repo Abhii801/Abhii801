@@ -52,7 +52,7 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
     * **Honors:** 🥈 **Silver Medalist** (CGPA: 9.55/10)
 * **Certifications:**
     * Cadence Design Systems: *Allegro Design Entry HDL & PCB Editor Flow (Basic to intermediate)*
-    * Coursera: * Power Electronics, Wireless Communication, IoT & Embedded Systems, Python 
+    * Coursera: *Power Electronics, Wireless Communication, IoT & Embedded Systems, Python 
       Programming*
 
 ---
