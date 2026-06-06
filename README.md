@@ -11,7 +11,7 @@ My engineering philosophy is **"First Principles to Product."** I bridge the gap
 I am currently documenting my journey to master RF System Design, from Maxwell's Equations to Certification.
 - **Active Project:** [RF-System-Design-Journal](https://github.com/Abhii801/RF-System-Design-Journal)
 - **Research:** RF Front-End Architecture, IQ Modulation, Impedance Matching.
-- **Goal:** Transitioning into **Analog/RF VLSI Design**.
+- **Goal:** Transitioning into **Analog/RF Hardware Design Expert**.
 
 ---
 
@@ -24,7 +24,7 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 | **Simulation** | **LTSpice**, PSpice, TINA-TI, MATLAB/Simulink, CST Studio (RF) |
 | **Validation Automation** | Python, C/C++, VBA Macros, Power Automate |
 | **Lab Instrumentation** | **R&S CMW500** (Cellular Tester), VNA, Spectrum Analyzer, MSO, Logic Analyzer, Precision Metering Benches (**Zera**, MTE), EFT/ESD Simulators |
-| **Communication Protocols** | **DLMS/COSEM**, MQTT, LTE-M/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
+| **Communication Protocols** | **DLMS/COSEM**, MQTT, LTE-Cat 1/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
 | **Standards & Compliance** | **IS 16444**, **IEC 62052-11**, EMI/EMC (Radiated/Conducted Emissions), Electrical Safety |
 
 ---
