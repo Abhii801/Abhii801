@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinav Kumar 👋
 ### ⚡ Hardware Design Engineer | RF & Analog Specialist | Embedded Systems
 
-I am a **Deputy Manager (Hardware Design)** at **Schneider Electric (R&D)**, specializing in **Mixed-Signal Architecture**, **Cellular IoT (LTE-M/NB-IoT)**, and **Precision Analog Design**.
+I am a **Deputy Manager (Hardware Design)** at **Schneider Electric (R&D)**, specializing in **Mixed-Signal Architecture**, **Cellular IoT (LTE-Cat1/NB-IoT)**, and **Precision Analog Design**.
 
 My engineering philosophy is **"First Principles to Product."** I bridge the gap between theoretical physics and mass production, leveraging Python automation to validate complex hardware systems.
 
@@ -24,7 +24,7 @@ My technical arsenal covers the full product lifecycle: Design, Simulation, Vali
 | **Simulation** | **LTSpice**, PSpice, TINA-TI, MATLAB/Simulink, CST Studio (RF) |
 | **Validation Automation** | Python, C/C++, VBA Macros, Power Automate |
 | **Lab Instrumentation** | **R&S CMW500** (Cellular Tester), VNA, Spectrum Analyzer, MSO, Logic Analyzer, Precision Metering Benches (**Zera**, MTE), EFT/ESD Simulators |
-| **Communication Protocols** | **DLMS/COSEM**, MQTT, LTE-Cat 1/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
+| **Communication Protocols** | **DLMS/COSEM**, MQTT, LTE-Cat1/NB-IoT, LoRa, Zigbee, BLE, SPI, I2C, UART, RS485 |
 | **Standards & Compliance** | **IS 16444**, **IEC 62052-11**, EMI/EMC (Radiated/Conducted Emissions), Electrical Safety |
 
 ---
