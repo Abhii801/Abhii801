@@ -9,7 +9,6 @@ My engineering philosophy is **"First Principles to Product."** I bridge the gap
 
 ### 🔭 Current Focus
 I am currently documenting my journey to master RF System Design, from Maxwell's Equations to Certification.
-- **Active Project:** [RF-System-Design-Journal](https://github.com/Abhii801/RF-System-Design-Journal)
 - **Research:** RF Front-End Architecture, IQ Modulation, Impedance Matching.
 - **Goal:** Transitioning into **Analog/RF Hardware Design Expert**.
 
